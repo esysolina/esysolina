@@ -17,14 +17,17 @@
 <code><img width="5%" title="IntelliJ IDEA" src="/images/Intelij_IDEA.svg"></code>
 <code><img width="5%" title="Java" src="/images/Java.svg"></code>
 <code><img width="5%" title="Selenide" src="/images/Selenide.svg "></code>
+<code><img width="5%" title="Docker" src="/images/Docker.svg "></code>
 
 <code><img width="5%" title="Gradle" src="/images/Gradle.svg"></code>
 <code><img width="5%" title="JUnit5" src="/images/JUnit5.svg"></code>
 <code><img width="5%" title="Jenkins" src="/images/Jenkins.svg"></code>
+<code><img width="5%" title="Allure_Report" src="/images/Allure_Report.svg"></code>
 
 <code><img width="5%" title="Selenoid" src="/images/Selenoid.svg"></code>
 <code><img width="5%" title="Allure Report" src="/images/Allure_EE.svg"></code>
 <code><img width="5%" title="Github" src="/images/Github.svg"></code>
+<code><img width="5%" title="Jira" src="/images/Jira.svg"></code>
 
 </p>
 
