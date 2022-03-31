@@ -1,10 +1,10 @@
-### Привет :slightly_smiling_face: Добро пожаловать на мой профиль :v:
+### Привет :slightly_smiling_face: Добро пожаловать на мой профиль! 
 
-:shipit: У меня 3 года коммерческого опыта в тестировании. Изучаю автоматизацию
+3 года коммерческого опыта в ручном тестировании :v: Изучаю автоматизацию на курсе [QA.GURU](https://qa.guru)
 
 
 <p align="left">
-  <h2><img width="45" src="images/contact3.gif">Языки и инструменты<img align="right" title="My Github Stats" width="35"  src="images/stats.webp"></h2>
+  <h2><img width="45" src="images/contact3.gif">Языки и инструменты</h2>
 <br>
 <a>
   <img width="50%" align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=esysolina&show_icons=true&theme=radical">
@@ -19,7 +19,7 @@
 <code><img width="5%" title="Selenide" src="/images/Selenide.svg "></code>
 
 <code><img width="5%" title="Gradle" src="/images/Gradle.svg"></code>
-<code><img width="5%" title="JUnit5" src="/images/junit5.svg"></code>
+<code><img width="5%" title="JUnit5" src="/images/JUnit5.svg"></code>
 <code><img width="5%" title="Jenkins" src="/images/Jenkins.svg"></code>
 
 <code><img width="5%" title="Selenoid" src="/images/Selenoid.svg"></code>
@@ -28,8 +28,8 @@
 
 </p>
 
-<p align="right">
+<p align="left">
   <a>
-    <img width="35%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esysolina&layout=compact&theme=buefy&hide_border=true">
+    <img width="35%" align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esysolina&layout=compact&theme=buefy&hide_border=true">
   </a>
 </p>
