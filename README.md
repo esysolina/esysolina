@@ -4,7 +4,7 @@
 
 
 <p align="left">
-  <h2><img width="45" src="images/contact3.gif">Языки и инструменты</h2>
+  <h2>Языки и инструменты</h2>
 <br>
 <a>
   <img width="50%" align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=esysolina&show_icons=true&theme=radical">
