@@ -7,7 +7,7 @@
   <h2>Языки и инструменты</h2>
 <br>
 <a>
-  <img width="50%" align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=esysolina&show_icons=true&theme=radical">
+  <img width="50%" align="right" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=esysolina&show_icons=true&theme=radical">
 
 </a>
 </p>
